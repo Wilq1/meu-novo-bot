@@ -11,9 +11,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['12362000021', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
+['12362000021', 'WLBOT', true], 
 ['59822228462', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['59894808483'], ['5214531173598'], ['5214531106422'], ['5492266613038'], ['51914725037'], ['593968585383'], ['5492266466080']]
+['59894808483'], ['558588560418'], [''], [''], [''], [''], ['']]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -28,7 +28,7 @@ global.prems = []
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = pt  //Idioma de GataBot, Ejemplo: es | en | pt...
  
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -90,13 +90,13 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'WILLBOT /n 558588560418'
+global.author = 'WILQUER'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
+['18059196237', 'Wilquer', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['5214531106422', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -109,34 +109,34 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.0'
 global.vsJB = '3.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = 'WL BOT'
+global.yt = 'https://youtube.com/@wilqueralmeida9144'
+global.yt2 = ''
+global.ig = 'https://instagram.com/085_will_inc?igshid=ZDdkNTZiNTM='
+global.md = ''
+global.fb = ''
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/EMP0ZURA5kXHG73X5PqMU1' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.nna = '' //UPDATE GATABOT
+global.nna2 = '' //Help
+global.nn = '' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = '' //Grupo 3
+global.nnntt = '' //Grupo 4
+global.nnnttt = '' //Grupo 5
+global.nnnttt2 = '' //Grupo 6 COL
+global.nnnttt3 = '' //Grupo 7 COL
+global.nnnttt4 = '' //Grupo 8 COL
+global.nnnttt5 = '' //Grupo 9 COL
+global.paypal = ''
+global.asistencia = 'Wa.me/558588560418' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'STICKERS DUEL'
+global.igfg = 'STICKERS DUEL-MD'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
